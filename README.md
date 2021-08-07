@@ -9,5 +9,7 @@ This is especially a concern when buying a prebuilt computer. In the event that 
 
 # Alternatives
 CMD command ---> wmic path SoftwareLicensingService get OA3xOriginalProductKey
+
 https://www.groovypost.com/howto/find-your-windows-10-product-key/
+
 https://stackoverflow.com/questions/54677578/getting-activation-key-from-cmd-does-not-work-win10
